@@ -9,5 +9,12 @@ package ConsecionarioAutos;
  * @author avila
  */
 public class ConsecionarioAutosClass {
-    
+    public static void main(String[] args) {
+        //Primer Commit en apache netbeans
+        System.out.println("Hello Word");
+        
+        
+        
+        
+    }
 }
